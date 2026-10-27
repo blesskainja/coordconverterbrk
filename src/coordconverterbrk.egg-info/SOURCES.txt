@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+src/coordconverterbrk/__init__.py
+src/coordconverterbrk/coordconverterbrk.py
+src/coordconverterbrk.egg-info/PKG-INFO
+src/coordconverterbrk.egg-info/SOURCES.txt
+src/coordconverterbrk.egg-info/dependency_links.txt
+src/coordconverterbrk.egg-info/top_level.txt

@@ -1,0 +1,25 @@
+Metadata-Version: 2.4
+Name: coordconverterbrk
+Version: 0.1.2
+Summary: Convert geographic coordinates between DMS and decimal degrees.
+Author-email: buleka <mscgis000426@must.ac.mw>
+License: MUST
+Keywords: gis,coordinates,dms,decimal,geography
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: Other/Proprietary License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# coordconverterbrk
+
+A small Python package to convert geographic coordinates between
+**Degrees–Minutes–Seconds (DMS)** and **Decimal Degrees**.
+
+> **Final PyPI name:** `coordconverterbrk`
+
+## Install
+```bash
+pip install coordconverterbrk

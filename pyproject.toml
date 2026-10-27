@@ -1,0 +1,16 @@
+[project]
+name = "coordconverterbrk"
+version = "0.1.2" 
+description = "Convert geographic coordinates between DMS and decimal degrees."
+readme = "README.md"
+requires-python = ">=3.8"
+license = { text = "MUST" }
+authors = [
+    { name = "buleka", email = "mscgis000426@must.ac.mw" }
+]
+keywords = ["gis", "coordinates", "dms", "decimal", "geography"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: Other/Proprietary License",
+    "Operating System :: OS Independent",
+]
